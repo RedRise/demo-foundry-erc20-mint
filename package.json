@@ -1,0 +1,19 @@
+{
+  "name": "demo-foundryerc20-mint",
+  "version": "1.0.0",
+  "description": "Demonstrating how to mint ERC20 with foundry tools",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guillaume Garchery",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.0",
+    "ethers": "^6.6.0"
+  }
+}
